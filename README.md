@@ -1,2 +1,2 @@
 # QwikLABS
-Task of QwikLABS
+Task of QwikLABS for my course.
